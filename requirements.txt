@@ -13,4 +13,4 @@ tldextract
 motor
 aiofiles
 dnspython
-yt-dlp
+https://github.com/sahaynitin/yt-dlp-1/archive/refs/tags/2021.12.01.zip
