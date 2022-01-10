@@ -6,7 +6,7 @@ Pillow
 pyrogram
 requests
 tgcrypto
-https://github.com/yt-dlp/yt-dlp/releases/download/2021.12.27/yt-dlp
+yt-dlp==2021.12.27
 olefile
 filetype
 tldextract
