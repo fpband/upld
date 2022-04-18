@@ -24,27 +24,27 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1943275919:AAFEuTx8yfgH32uV4voaYUioKNchb763R5M"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "3335796"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "138b992a0e672e8346d8439c3f42ea78"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID",
-      "value": ""
+      "value": "763990585"
     },
     "DATABASE_URL": {
       "description": "Your MongoDB URI",
-      "value": ""
+      "value": "mongodb+srv://abirhasan2005:abirhasan@cluster0.i6qzp.mongodb.net/cluster0?retryWrites=true&w=majority"
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
-      "value": "",
+      "value": "SeriesPlus1",
       "required": false
     },
     "SESSION_NAME": {
@@ -58,7 +58,7 @@
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
-      "value": "",
+      "value": "https://telegra.ph/file/8eddfc57dde92ec6e288e.jpg",
       "required": false
     },
     "CHUNK_SIZE": {
